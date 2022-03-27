@@ -19,7 +19,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         "water",
         "soil",
         "air",
-        "rocks"
+        "rocks",
+        "wood"
     ]
 
     // MARK: Table View Data Source Methods
